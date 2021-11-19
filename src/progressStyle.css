@@ -1,0 +1,72 @@
+.progressContainer, .contentContainer {
+    margin:2rem ;
+    padding: 2rem;
+    box-shadow: 0 0.25rem 0.65rem rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-color: rgb(252, 252, 252);
+}
+.progressContainer > div{
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+.progressItem {
+    margin:1rem 0 !important;
+}
+.progressItem > div.d-flex >div {
+    margin-top: 1.6rem;
+}
+
+.progress{
+    height:10px;
+}
+
+.skillImg {
+    width: 3rem;
+    height: 3rem;
+    margin:0.6rem;
+    /* border: 1px solid black; */
+    /* padding:0.4rem; */
+}
+.carousel {
+    /* display: inline-block; */
+    /* border: 1px solid black; */
+    padding:0 3rem;
+}
+.carousel-item {
+   
+}
+.carousel-item img {
+    margin:0 auto;
+    width: 20rem;
+    height:24rem;
+    object-fit: contain;
+}
+.carousel button {
+    background-color: rgba(0, 0, 0, 0.719);
+    top:50%;
+    border-radius: 50%;
+    padding:0.6rem;
+    width:2rem;    height: 2rem;
+
+}
+
+.carousel-inner {
+    margin:0 auto;
+    /* padding:2rem 0; */
+    text-align: center;
+    /* background-color: rgb(0, 0, 0); */
+    
+}
+.skillPill {
+    cursor: pointer;
+    padding:0.2rem 0.6rem;
+    border: 1px solid rgb(207, 148, 21);
+    border-radius: 15px;
+    margin-right: 4px;
+    font-weight: bold;
+    background-color: rgb(255, 235, 145);  
+}
+.skillPill:hover {
+   
+    background-color: rgb(255, 224, 85);  
+}
