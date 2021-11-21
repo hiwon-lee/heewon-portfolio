@@ -229,6 +229,12 @@
     background-size: cover;
     filter: grayscale(60%);  
   }
+  .finalBackGround {
+    color:white;
+    background-size: cover;
+    filter: grayscale(20%);
+    background-image: url(../img/finalCoverImg.jpg);
+  }
 
   
   /* Featurettes
