@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/heewon-portfolio/static/css/main.890d5884.css",
-    "main.js": "/heewon-portfolio/static/js/main.89d647d4.js",
+    "main.css": "/heewon-portfolio/static/css/main.2005f48e.css",
+    "main.js": "/heewon-portfolio/static/js/main.a04b7938.js",
     "static/js/453.ed3810f9.chunk.js": "/heewon-portfolio/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/heewon-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/mainCoverImg.jpg": "/heewon-portfolio/static/media/mainCoverImg.35143c72487ac4b3696b.jpg",
+    "static/media/figma.png": "/heewon-portfolio/static/media/figma.1f06839fe188b984a91b.png",
+    "static/media/blooburn02.png": "/heewon-portfolio/static/media/blooburn02.25fe26295bb18613ba01.png",
+    "static/media/blooburn03.png": "/heewon-portfolio/static/media/blooburn03.4ae487b0463d3d0ab064.png",
+    "static/media/blooburn04.png": "/heewon-portfolio/static/media/blooburn04.0328cc7373ee4bde882f.png",
+    "static/media/blooburn01.png": "/heewon-portfolio/static/media/blooburn01.bf12c546babb0f58e6bd.png",
+    "static/media/orrr22.jpg": "/heewon-portfolio/static/media/orrr22.8da1975ac4cc13f19c91.jpg",
+    "static/media/finalCoverImg.jpg": "/heewon-portfolio/static/media/finalCoverImg.a18514b0366456acd5f4.jpg",
+    "static/media/github.png": "/heewon-portfolio/static/media/github.1c95b85d86a7c25b6f3c.png",
+    "static/media/orrr2.png": "/heewon-portfolio/static/media/orrr2.c88be2a08005113e474b.png",
+    "static/media/mottnani01.png": "/heewon-portfolio/static/media/mottnani01.ad34f17a75cb2b6768e9.png",
+    "static/media/java.png": "/heewon-portfolio/static/media/java.62dde9b38b73ee5a251a.png",
+    "static/media/mottnani03.png": "/heewon-portfolio/static/media/mottnani03.bbd8704f4f741c16a898.png",
+    "static/media/html.png": "/heewon-portfolio/static/media/html.23784160d848f734c302.png",
+    "static/media/mottnani02.png": "/heewon-portfolio/static/media/mottnani02.b373693ff43b544f2bbb.png",
+    "static/media/python.png": "/heewon-portfolio/static/media/python.c460f75905b545c9644d.png",
+    "static/media/jquery.gif": "/heewon-portfolio/static/media/jquery.6e47663e953173d56fac.gif",
+    "static/media/bootstrap.png": "/heewon-portfolio/static/media/bootstrap.2d53e8e7bfcf1f3ba692.png",
+    "static/media/react.png": "/heewon-portfolio/static/media/react.e627d8b7feb21a57995b.png",
     "index.html": "/heewon-portfolio/index.html",
-    "main.890d5884.css.map": "/heewon-portfolio/static/css/main.890d5884.css.map",
-    "main.89d647d4.js.map": "/heewon-portfolio/static/js/main.89d647d4.js.map",
+    "static/media/cpp.svg": "/heewon-portfolio/static/media/cpp.254e459944c5e8b198e2e4077e2176d0.svg",
+    "main.2005f48e.css.map": "/heewon-portfolio/static/css/main.2005f48e.css.map",
+    "main.a04b7938.js.map": "/heewon-portfolio/static/js/main.a04b7938.js.map",
     "453.ed3810f9.chunk.js.map": "/heewon-portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.890d5884.css",
-    "static/js/main.89d647d4.js"
+    "static/css/main.2005f48e.css",
+    "static/js/main.a04b7938.js"
   ]
 }
