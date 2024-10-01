@@ -21,6 +21,25 @@
 - 추가로 여전히 리팩토링 진행중입니다..
 - 이 레포에 국한해서 리팩토링은 아마 쭉 이어질 듯
 
+```cmd
+// 해당 레포 클론
+git clone https://github.com/hiwon-lee/heewon-portfolio
+
+// my-app 폴더로 이동
+cd my-app
+
+// 레포 기본 모듈 설치
+npm install
+npm install styled-components
+
+// 프로젝트 실행
+npm start
+
+// 프로젝트 재배포
+npm run deploy
+// 이건 마음대로하면 진짜 죽어
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
