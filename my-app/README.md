@@ -1,3 +1,18 @@
+# heewon-portfolio
+
+이 reposity가 무엇인지 설명하겠습니다..
+
+2021년 11월 인턴 지원을 하기 위해서 vanilla javascript로 하루만에 뚝딱뚝딱 만들어버린 프로젝트랍니다
+
+그리고 2024년 8월, 약 3년이라는 시간이 흐르고 급하게 포트폴리오가 필요했고 vanilla JS -> React로 리팩토링했습니다.
+
+이러한 이유로
+
+- 컴퍼넌트 활용도가 낮다는 점
+- `my-app` 폴더로 들어가야 진짜 코드를 활용할 수 있다는 점
+
+서론이 길고 진부했지만, 그래서 저의 결론은 이 repo는 아주 날 것의 repo라는 것입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
