@@ -3,12 +3,13 @@ import JS from '../img/js.png';
 import BOOTSTRAP from '../img/bootstrap.png';
 import PYTHON from '../img/python.png';
 import HTML from '../img/html.png';
-import CSS from '../img/css.png';
 import JQUERY from '../img/jquery.gif';
 import JAVA from '../img/java.png';
 import FIGMA from '../img/figma.png';
 import GITHUB from '../img/github.png';
-
+import CSHARP from '../img/csharp.png';
+import CPP from '../img/cpp.svg';
+import REACT from '../img/react.png';
 function Skills() {
   return (
     <div
@@ -25,7 +26,7 @@ function Skills() {
           data-aos="fade-left"
           data-aos-duration="1500"
         >
-          <div className="col-12 m-1 fs-5"># MAIN LANGUAGE</div>
+          <div className="col-12 m-1 fs-5"># USABLE LANGUAGE</div>
           <SkillItem
             name="JavaScript"
             percentage="70"
@@ -50,6 +51,18 @@ function Skills() {
             imageSource={JAVA}
             progressBarStyle="warning"
           />
+          <SkillItem
+            name="CPP"
+            percentage="60"
+            imageSource={CPP}
+            progressBarStyle="warning"
+          />
+          <SkillItem
+            name="CSHARP"
+            percentage="60"
+            imageSource={CSHARP}
+            progressBarStyle="warning"
+          />
         </div>
         {/* sub skills */}
         <div
@@ -58,6 +71,11 @@ function Skills() {
           data-aos-duration="1500"
         >
           <div className="col-12 m-1 fs-5"># AVAILABLE DEVELOPMENT TOOL</div>
+          <SkillItem
+            name="REACT"
+            percentage="70"
+            imageSource={REACT}
+          />
           <SkillItem
             name="JQUERY"
             percentage="70"

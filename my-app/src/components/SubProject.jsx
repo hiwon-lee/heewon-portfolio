@@ -1,3 +1,7 @@
+import MOTTNANI1 from '../img/mottnani01.png';
+import MOTTNANI2 from '../img/mottnani02.png';
+import MOTTNANI3 from '../img/mottnani03.png';
+
 function SubProject() {
   return (
     <div
@@ -25,14 +29,14 @@ function SubProject() {
                   <div className="carousel-inner">
                     <div className="carousel-item active">
                       <img
-                        src="img/mottnani01.png"
+                        src={MOTTNANI1}
                         className="d-block w-100"
                         alt="..."
                       />
                     </div>
                     <div className="carousel-item">
                       <img
-                        src="img/mottnani02.png"
+                        src={MOTTNANI2}
                         className="d-block w-100"
                         alt="..."
                       />

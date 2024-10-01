@@ -1,3 +1,8 @@
+import BLOOBURN1 from '../img/blooburn01.png';
+import BLOOBURN2 from '../img/blooburn02.png';
+import BLOOBURN3 from '../img/blooburn03.png';
+import BLOOBURN4 from '../img/blooburn04.png';
+
 function Project() {
   return (
     <div
@@ -11,7 +16,7 @@ function Project() {
         </h2>
 
         <div className="contentContainer row">
-          <div className="col-12 fs-3 pb-3">HEALTHMANAGER</div>
+          <div className="col-12 fs-3 pb-3">TEAM BLOOBURN</div>
           <hr />
           <div className="col-6 p-3">
             <div
@@ -22,30 +27,30 @@ function Project() {
               <div className="carousel-inner">
                 <div className="carousel-item active">
                   <img
-                    src="img/helman01.png"
+                    src={BLOOBURN1}
                     className="d-block w-100"
-                    alt="..."
+                    alt="Slide 1"
                   />
                 </div>
                 <div className="carousel-item">
                   <img
-                    src="img/helman02.png"
+                    src={BLOOBURN2}
                     className="d-block w-100"
-                    alt="..."
+                    alt="Slide 2"
                   />
                 </div>
                 <div className="carousel-item">
                   <img
-                    src="img/helman03.png"
+                    src={BLOOBURN3}
                     className="d-block w-100"
-                    alt="..."
+                    alt="Slide 3"
                   />
                 </div>
                 <div className="carousel-item">
                   <img
-                    src="img/helman04.png"
+                    src={BLOOBURN4}
                     className="d-block w-100"
-                    alt="..."
+                    alt="Slide 4"
                   />
                 </div>
               </div>
@@ -55,6 +60,10 @@ function Project() {
                 data-bs-target="#carouselControls01"
                 data-bs-slide="prev"
               >
+                <span
+                  className="carousel-control-prev-icon"
+                  aria-hidden="true"
+                ></span>
                 <span className="visually-hidden">Previous</span>
               </button>
               <button
@@ -63,6 +72,10 @@ function Project() {
                 data-bs-target="#carouselControls01"
                 data-bs-slide="next"
               >
+                <span
+                  className="carousel-control-next-icon"
+                  aria-hidden="true"
+                ></span>
                 <span className="visually-hidden">Next</span>
               </button>
             </div>
@@ -88,9 +101,10 @@ function Project() {
               ‘HELMAN’ 프로젝트는 제가 처음으로 직접 기획/디자인/제작의 모든
               과정을 거쳐 만든 웹 어플리케이션입니다. Bootstrap과 같은 프레임
               워크를 사용하지 않고, 모든 레이아웃과 컨텐츠를 직접 만들어보며
-              <span className="text-primary"> HTML/CSS</span>에 대한 기초적인 이해를
-              쌓을 수 있었습니다. 동적 기능에 대한 부분은 부족했지만, 프로젝트의
-              전반적인 흐름에 대해 이해할 수 있었던 의미있는 프로젝트였습니다.
+              <span className="text-primary"> HTML/CSS</span>에 대한 기초적인
+              이해를 쌓을 수 있었습니다. 동적 기능에 대한 부분은 부족했지만,
+              프로젝트의 전반적인 흐름에 대해 이해할 수 있었던 의미있는
+              프로젝트였습니다.
             </p>
             <hr />
             <table className="table align-bottom">
@@ -107,7 +121,8 @@ function Project() {
                 <tr>
                   <th>
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;GITHUB
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;GITHUB
                     </b>
                   </th>
                   <td>
@@ -120,7 +135,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;UI/UX
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;UI/UX
                     </b>
                   </th>
                   <td>
@@ -133,7 +149,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;SKILLS
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;SKILLS
                     </b>
                   </th>
                   <td>
@@ -261,7 +278,8 @@ function Project() {
                 <tr>
                   <th>
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;GITHUB
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;GITHUB
                     </b>
                   </th>
                   <td>
@@ -274,7 +292,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;UI/UX
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;UI/UX
                     </b>
                   </th>
                   <td>
@@ -299,7 +318,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;SKILLS
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;SKILLS
                     </b>
                   </th>
                   <td>
@@ -447,7 +467,8 @@ function Project() {
                 <tr>
                   <th>
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;GITHUB
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;GITHUB
                     </b>
                   </th>
                   <td>
@@ -460,8 +481,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;UI/UX
-                      (M)
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;UI/UX (M)
                     </b>
                   </th>
                   <td>
@@ -474,8 +495,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;UI/UX
-                      (W)
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;UI/UX (W)
                     </b>
                   </th>
                   <td>
@@ -488,7 +509,8 @@ function Project() {
                   <th scope="row">
                     {' '}
                     <b>
-                      <span className="material-icons">near_me</span> &nbsp;SKILLS
+                      <span className="material-icons">near_me</span>{' '}
+                      &nbsp;SKILLS
                     </b>
                   </th>
                   <td>

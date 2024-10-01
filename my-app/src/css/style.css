@@ -228,7 +228,7 @@ body {
   color: white;
   background-size: cover;
   filter: grayscale(20%);
-  /* background-image: url(../img/finalCoverImg.jpg); */
+  background-image: url(../img/finalCoverImg.jpg);
 }
 
 /* Featurettes
