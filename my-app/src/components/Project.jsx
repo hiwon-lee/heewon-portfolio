@@ -448,12 +448,12 @@ function Project() {
                 집중도 기반 스톱워치?
                 <br />
                 카메라가 나를 감시하면서 내가 "공부에 집중할 때만" 공부시간을
-                집계해준다
+                집계한다.
                 <br />
               </span>
               깜빡하고 스톰워치를 일시정지 못할때, 졸 때, 공부에 집중하지 못할
-              때, 핸드폰 할 때 등등 사용자가 공부에 온전히 집중하고 있는 지
-              판단하서 실질적인 공부 시간 집계를 돕는 AI-STOPWATCH
+              때, 핸드폰 할 때 등 사용자가 공부에 온전히 집중하고 있는 지
+              판단하여 실질적인 공부 시간 집계를 돕는 AI STOPWATCH
             </p>
             <b># project 명세</b>
             <br />
@@ -464,7 +464,7 @@ function Project() {
                 <li>집중도 기반 스톱워치</li>
                 <li>공부 History</li>
               </ul>
-              <hr />- FE : REACT, REDUX (상태관리가 매우 관건임)
+              <hr />- FE : REACT, REDUX
               <br />
               - BE : Django
               <br />- AI : Google Teachable Machine
