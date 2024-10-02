@@ -379,7 +379,10 @@ function Project() {
         </div>
       </div>
 
-      <div className="container marginY">
+      <div
+        className="container marginY"
+        id="projectContainer2"
+      >
         <h2 className="text-center fw-bolder py-5 ">
           <span className="title pb-3 mb-3">PROJECT #2</span>
         </h2>
@@ -452,7 +455,7 @@ function Project() {
               때, 핸드폰 할 때 등등 사용자가 공부에 온전히 집중하고 있는 지
               판단하서 실질적인 공부 시간 집계를 돕는 AI-STOPWATCH
             </p>
-            <b># 세부 사항</b>
+            <b># project 명세</b>
             <br />
             <p>
               <ul>

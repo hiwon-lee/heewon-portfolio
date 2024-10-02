@@ -10,6 +10,14 @@ import GITHUB from '../img/github.png';
 import CSHARP from '../img/csharp.png';
 import CPP from '../img/cpp.svg';
 import REACT from '../img/react.png';
+
+import {
+  DJANGO,
+  REDUX,
+  SPRING,
+  STYLEDCOMPONENT,
+  TAILWIND,
+} from '../img/images';
 function Skills() {
   return (
     <div
@@ -82,9 +90,34 @@ function Skills() {
             imageSource={JQUERY}
           />
           <SkillItem
+            name="REDUX"
+            percentage="70"
+            imageSource={REDUX}
+          />
+          <SkillItem
             name="BOOTSTRAP"
             percentage="80"
             imageSource={BOOTSTRAP}
+          />
+          <SkillItem
+            name="STYLEDCOMPONENT"
+            percentage="70"
+            imageSource={STYLEDCOMPONENT}
+          />
+          <SkillItem
+            name="TAILWIND"
+            percentage="55"
+            imageSource={TAILWIND}
+          />
+          <SkillItem
+            name="SPRINGBOOT"
+            percentage="55"
+            imageSource={SPRING}
+          />
+          <SkillItem
+            name="DJANGO"
+            percentage="70"
+            imageSource={DJANGO}
           />
           <SkillItem
             name="FIGMA"

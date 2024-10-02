@@ -127,7 +127,7 @@ function Portfolio() {
             type="button"
             className="btn btn-dark fw-bolder font18 rounded-pill mt-5 py-2 px-5 text-nowrap mx-auto"
           >
-            PROJECT #2 - See More..?
+            PROJECT #2 - See MORE..?
           </button>
         </a>
       </div>

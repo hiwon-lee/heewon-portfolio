@@ -24,6 +24,12 @@ import ECST1 from './ECST01.png';
 import ECST2 from './ECST02.png';
 import ECST3 from './ECST03.png';
 
+import DJANGO from './DJANGO.png';
+import SPRING from './SPRING.jpg';
+import STYLEDCOMPONENT from './STYLEDCOMPONENTS.jpg';
+import TAILWIND from './TAILWIND.png';
+import REDUX from './REDUX.png';
+
 export {
   BLOOBURN1,
   BLOOBURN2,
@@ -49,4 +55,9 @@ export {
   ECST1,
   ECST2,
   ECST3,
+  DJANGO,
+  SPRING,
+  STYLEDCOMPONENT,
+  TAILWIND,
+  REDUX,
 };
